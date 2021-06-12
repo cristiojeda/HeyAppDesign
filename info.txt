@@ -1,0 +1,63 @@
+
+----------------------------------Color and Font Use in Project---------------------------------------
+-----Font-------
+1. 
+--Righteous
+--Open Sans
+
+-------Main Color---------
+1.
+#B576F6
+
+-----Gradient Color----------------
+1.
+-- #B576F6 , #9a4fe9
+2.
+-- #6AA5E3 , #6866E9
+3. 
+-- #fEB683 , #FF8993
+
+
+
+------------------------ All info Abput Admin Pannel Project -------------------------------------
+
+Company Name    - Crist HeyApp
+
+Avatar Name     - Crist Almeida
+position        - Company Head
+
+
+-------Navigation Link Name--------------
+
+---Name--------            ------------Font Awesome Icon Use in Nav-------------
+
+Dashboard                 <i class="fas fa-home"></i>
+UI Elements               <i class="fab fa-uikit"></i>
+Forms Stuff               <i class="fab fa-wpforms"></i>
+Data Table                <i class="fas fa-table"></i>
+Chart                     <i class="far fa-chart-bar"></i>
+Components                <i class="fas fa-cubes"></i>
+Log Out                   <i class="fas fa-sign-out-alt"></i>
+
+
+-----------Header Icon List---------------------
+
+<i class="fas fa-search"></i>
+
+<i class="far fa-envelope"></i>
+<i class="far fa-bell"></i>
+<i class="fas fa-bars"></i>
+
+
+-----------------Dashboard Icon List---------------------
+<i class="fas fa-layer-group"></i>
+<i class="fas fa-monkey-check-alt"></i>
+<i class="fas fa-male"></i>
+
+-----------------Dashboard Card Details--------------------
+Total Stock               -Increased by 60%
+Total Profit              -Increased by 50%
+Unique Visitors            -Increased by 40%
+
+----------------Company Employe Details-----------------
+Name    Email   User    Type     Joined      Status
